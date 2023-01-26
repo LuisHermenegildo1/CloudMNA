@@ -1,0 +1,3 @@
+﻿  SumaArreglosParalelos.cpp
+D:\Documents\Luis\ITESM\Trimestre 4\Cloud Computing\Proyectos OMP\SumaArreglosParalelos\SumaArreglosParalelos.cpp(28,5): warning C4101: 'i': variable local sin referencia
+  SumaArreglosParalelos.vcxproj -> D:\Documents\Luis\ITESM\Trimestre 4\Cloud Computing\Proyectos OMP\SumaArreglosParalelos\x64\Debug\SumaArreglosParalelos.exe
